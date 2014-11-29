@@ -17,3 +17,11 @@ Write a program in PHP that accepts two arguments from the command line and outp
 - Paper disproves Spock
 - Spock vaporizes Rock
 - Rock crushes Scissors
+
+##Usage (How to play)
+
+Download the files to your local computer, and run the following command from the root of the project:
+
+```
+php game.php rock paper
+```
