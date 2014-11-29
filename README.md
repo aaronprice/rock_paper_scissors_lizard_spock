@@ -1,4 +1,4 @@
-###Rock Paper Scissors Lizard Spock
+#Rock Paper Scissors Lizard Spock
 
 First introduced on "The Big Bang Theory"; "Rock, Paper, Scissors, Lizard, Spock" is an expansion of the game of "Rock, Paper, Scissors", that introduces two new weapons (i.e.: Lizard and Spock).
 
